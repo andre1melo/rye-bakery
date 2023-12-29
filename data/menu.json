@@ -1,0 +1,88 @@
+{
+  "menu": [
+    {
+      "name": "Kaiser Roll",
+      "price": 2.49,
+      "description": "Large and round, crisp on the outside, and soft on the inside, they have a five-point pinwheel design on top, which is meant to represent a crown.",
+      "image": "KaiserRoll.png",
+      "category": "rolls"
+    },
+    {
+      "name": "Seeds Roll",
+      "price": 1.99,
+      "description": "Small rolls, rather not for making sandwiches, but as an accompaniment to anything.",
+      "image": "SeedsRoll.png",
+      "category": "rolls"
+    },
+    {
+      "name": "Ciabatta Roll",
+      "price": 1.59,
+      "description": "Ciabatta is the Italian word for “slipper”, and this Italian-made bread made entirely of just a few basic ingredients, including water, salt, yeast, and wheat flour.",
+      "image": "CiabattaRoll.png",
+      "category": "rolls"
+    },
+    {
+      "name": "Rye 5 Grains Loaf",
+      "price": 4.99,
+      "description": "The Multi-Grain Sourdough contains 50% rye flour and 50% wheat flour. Sprinkled with 5 different grains and seeds giving it a flavoursome and hearty taste.",
+      "image": "Rye5GrainsLoaf.png",
+      "category": "loafs"
+    },
+    {
+      "name": "Sauerkraut Loaf",
+      "price": 3.99,
+      "description": "Sauerkraut Bread takes a little twist on a classic Amish sauerkraut bread recipe. A hearty, moist bread with a slightly sweet flavor, crusty outside.",
+      "image": "SauerkrautLoaf.png",
+      "category": "loafs"
+    },
+    {
+      "name": "Farmhouse Loaf",
+      "price": 3.59,
+      "description": "Rustic bread made with 50% whole rye flour and 50% wheat flour. Our carefully raised sourdough cultures give this bread its distinctive and hearty, artisan texture and flavour.",
+      "image": "FarmhouseLoaf.png",
+      "category": "loafs"
+    },
+    {
+      "name": "Blueberry Danish",
+      "price": 2.59,
+      "description": "Flaky puff pastry dough topped with a cream cheese mixture and fresh blueberries. It’s simply delicious!",
+      "image": "BlueberryDanish.png",
+      "category": "sweet"
+    },
+    {
+      "name": "Chocolate Torsade",
+      "price": 1.99,
+      "description": "Flaky pastries filled with creamy vanilla custard and chocolate chips. These chocolate custard puff pastry treats are perfect for your next breakfast or mid-afternoon treat.",
+      "image": "ChocolateTorsade.png",
+      "category": "sweet"
+    },
+    {
+      "name": "Croissant.png",
+      "price": 1.99,
+      "description": "Flaky, buttery, delicious croissant. Try it.",
+      "image": "Croissant.png",
+      "category": "sweet"
+    },
+    {
+      "name": "Milk",
+      "price": 2.99,
+      "description": "Local fresh milk straight from the farm to our shelves. 3 per pack.",
+      "image": "Milk.png",
+      "category": "drinks"
+    }
+    {
+      "name": "Cider",
+      "price": 4.99,
+      "description": "Locally brewed, subtle apple flavor. 3 per pack.",
+      "image": "Cider.png",
+      "category": "drinks"
+    }
+    {
+      "name": "Water",
+      "price": 1.99,
+      "description": "Collected from the Kraspik fountain in the nearby mountain. 4 per pack.",
+      "image": "Water.png",
+      "category": "drinks"
+    }
+  ]
+}

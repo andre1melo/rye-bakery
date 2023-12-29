@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "rye-bakery-app",
+    "slug": "rye-bakery-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/loading.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#495E57"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.andre1melo.ryebakeryapp"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.andre1melo.ryebakeryapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "fb5b62a0-cf02-4009-b660-b7203203f852"
+      }
+    },
+    "owner": "andre1melo"
+  }
+}
