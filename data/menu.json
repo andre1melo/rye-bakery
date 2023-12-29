@@ -69,14 +69,14 @@
       "description": "Local fresh milk straight from the farm to our shelves. 3 per pack.",
       "image": "Milk.png",
       "category": "drinks"
-    }
+    },
     {
       "name": "Cider",
       "price": 4.99,
       "description": "Locally brewed, subtle apple flavor. 3 per pack.",
       "image": "Cider.png",
       "category": "drinks"
-    }
+    },
     {
       "name": "Water",
       "price": 1.99,

@@ -26,7 +26,7 @@ import debounce from "lodash.debounce";
 SplashScreen.preventAutoHideAsync();
 
 const API_URL =
-  "https://github.com/andre1melo/rye-bakery-app/blob/main/data/menu.json";
+  "https://raw.githubusercontent.com/andre1melo/rye-bakery/main/data/menu.json";
 const sections = ["rolls", "loafs", "sweet", "drinks"];
 
 const Item = ({ name, price, description, image }) => (
