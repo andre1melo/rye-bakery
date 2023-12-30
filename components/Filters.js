@@ -14,7 +14,7 @@ const Filters = ({ onChange, selections, sections }) => {
             justifyContent: "center",
             alignItems: "center",
             padding: 10,
-            backgroundColor: selections[index] ? "#495e57" : "#edefee",
+            backgroundColor: selections[index] ? "#916226" : "#edefee",
             borderRadius: 9,
             marginRight: 10,
           }}
@@ -23,7 +23,7 @@ const Filters = ({ onChange, selections, sections }) => {
             <Text
               style={{
                 fontFamily: "Karla-ExtraBold",
-                color: selections[index] ? "#edefee" : "#495e57",
+                color: selections[index] ? "#edefee" : "#916226",
               }}
             >
               {section.charAt(0).toUpperCase() + section.slice(1)}

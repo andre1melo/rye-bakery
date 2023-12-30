@@ -233,7 +233,7 @@ const Profile = () => {
             style={styles.checkbox}
             value={profile.orderStatuses}
             onValueChange={newValue => updateProfile("orderStatuses", newValue)}
-            color={"#495e57"}
+            color={"#916226"}
           />
           <Text style={styles.paragraph}>Order statuses</Text>
         </View>
@@ -244,7 +244,7 @@ const Profile = () => {
             onValueChange={newValue =>
               updateProfile("passwordChanges", newValue)
             }
-            color={"#495e57"}
+            color={"#916226"}
           />
           <Text style={styles.paragraph}>Password changes</Text>
         </View>
@@ -253,7 +253,7 @@ const Profile = () => {
             style={styles.checkbox}
             value={profile.specialOffers}
             onValueChange={newValue => updateProfile("specialOffers", newValue)}
-            color={"#495e57"}
+            color={"#916226"}
           />
           <Text style={styles.paragraph}>Special offers</Text>
         </View>
@@ -262,7 +262,7 @@ const Profile = () => {
             style={styles.checkbox}
             value={profile.newsletter}
             onValueChange={newValue => updateProfile("newsletter", newValue)}
-            color={"#495e57"}
+            color={"#916226"}
           />
           <Text style={styles.paragraph}>Newsletter</Text>
         </View>
@@ -347,7 +347,7 @@ const styles = StyleSheet.create({
   },
   saveBtn: {
     flex: 1,
-    backgroundColor: "#495e57",
+    backgroundColor: "#916226",
     borderRadius: 9,
     alignSelf: "stretch",
     padding: 10,
@@ -423,7 +423,7 @@ const styles = StyleSheet.create({
     flexDirection: "row",
   },
   changeBtn: {
-    backgroundColor: "#495e57",
+    backgroundColor: "#916226",
     borderRadius: 9,
     marginHorizontal: 18,
     padding: 10,

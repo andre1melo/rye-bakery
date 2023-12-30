@@ -39,7 +39,7 @@ const Item = ({ name, price, description, image }) => (
     <Image
       style={styles.itemImage}
       source={{
-        uri: `https://github.com/andre1melo/rye-bakery-app/blob/main/assets/img/${image}?raw=true`,
+        uri: `https://github.com/andre1melo/rye-bakery/blob/main/assets/img/${image}?raw=true`,
       }}
     />
   </View>
@@ -171,13 +171,12 @@ const Home = ({ navigation }) => {
         </Pressable>
       </View>
       <View style={styles.heroSection}>
-        <Text style={styles.heroHeader}>Little Lemon</Text>
+        <Text style={styles.heroHeader}>Rye Bakery</Text>
         <View style={styles.heroBody}>
           <View style={styles.heroContent}>
-            <Text style={styles.heroHeader2}>Chicago</Text>
+            <Text style={styles.heroHeader2}>Bali, Indonesia</Text>
             <Text style={styles.heroText}>
-              We are a family owned Mediterranean restaurant, focused on
-              traditional recipes served with a modern twist.
+              A small bakery on the south of Bali commited to bring you fresh delicious highest quality bread and more.
             </Text>
           </View>
           <Image
@@ -268,7 +267,7 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
   },
   heroSection: {
-    backgroundColor: "#495e57",
+    backgroundColor: "#916226",
     padding: 15,
   },
   heroHeader: {
@@ -315,7 +314,7 @@ const styles = StyleSheet.create({
   itemHeader: {
     fontSize: 24,
     paddingVertical: 8,
-    color: "#495e57",
+    color: "#916226",
     backgroundColor: "#fff",
     fontFamily: "Karla-ExtraBold",
   },
@@ -326,7 +325,7 @@ const styles = StyleSheet.create({
     fontFamily: "Karla-Bold",
   },
   description: {
-    color: "#495e57",
+    color: "#916226",
     paddingRight: 5,
     fontFamily: "Karla-Medium",
   },

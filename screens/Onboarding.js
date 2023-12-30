@@ -169,7 +169,7 @@ const Onboarding = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#495E57",
+    backgroundColor: "#916226",
     paddingTop: Constants.statusBarHeight,
   },
   header: {
