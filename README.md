@@ -1,6 +1,6 @@
 # Rye Bakery React Native App
 
-## Rye Bakery's React Native App lets you to create a login which allows you to set newsletter preferences and browse the current update menu that if fetched via API.
+## Rye Bakery's React Native App lets you create a login which allows you to set newsletter preferences and browse the current updated menu that is fetched via API.
 
 Usage
 - Open the link https://snack.expo.dev/@andre1melo/rye-bakery?platform=ios (iOS is preset)
